@@ -2,6 +2,12 @@
     "files.associations": {
         "stat.h": "c",
         "types.h": "c",
-        "user.h": "c"
+        "user.h": "c",
+        "sysinfo.h": "c",
+        "*.tcc": "c",
+        "functional": "c",
+        "fstream": "c",
+        "istream": "c",
+        "streambuf": "c"
     }
 }
